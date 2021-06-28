@@ -11,3 +11,7 @@
 ## 3 - Aprendamos a programar una API Rest con Python. | UtilAPIs
 - Video: https://youtu.be/GVREnyB0xvY
 - Código: https://github.com/utilapis/aprendamos-juntos/tree/feature/03-AprendamosRestAPIPython
+
+## 4 - Aprendamos a crear un file uploader con HTML, CSS y Javascript. | UtilAPIs
+- Video: https://youtu.be/6SFqyuS74AE
+- Código: https://github.com/utilapis/aprendamos-juntos/tree/feature/04-AprendamosFileUploader

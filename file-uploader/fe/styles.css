@@ -1,0 +1,56 @@
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.file-uploader {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.drop-zone {
+  border-radius: 20px;
+  border: 3px dashed gray;
+  width: 300px;
+  height: 150px;
+  text-align: center;
+  transition-duration: 0.2s;
+}
+
+.drop-zone:hover {
+  cursor: pointer;
+  width: 320px;
+  height: 150px;
+  background-color: #eeeeee;
+}
+
+.drop-zone.files-hover {
+  cursor: pointer;
+  width: 320px;
+  height: 150px;
+  background-color: #eeeeee;
+}
+
+.file-name:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.file-name {
+  display: flex;
+  margin-top: 10px;
+}
+
+.name {
+  width: 95%;
+}
+
+.file-uploader .file-list .file-name .remove:hover {
+  cursor: pointer;
+  font-weight: bolder;
+}
+
+.file-uploader button {
+  margin-top: 20px;
+}
