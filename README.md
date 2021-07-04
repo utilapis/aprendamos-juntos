@@ -15,3 +15,7 @@
 ## 4 - Aprendamos a crear un file uploader con HTML, CSS y Javascript. | UtilAPIs
 - Video: https://youtu.be/6SFqyuS74AE
 - Código: https://github.com/utilapis/aprendamos-juntos/tree/feature/04-AprendamosFileUploader
+
+## 5 - Aprendamos a crear un carousel o slideshow con HTML, CSS y Javascript. | UtilAPIs
+- Video: https://youtu.be/Qi9vnfe-RyU
+- Código: https://github.com/utilapis/aprendamos-juntos/tree/feature/05-AprendamosCarousel
