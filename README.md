@@ -19,3 +19,7 @@
 ## 5 - Aprendamos a crear un carousel o slideshow con HTML, CSS y Javascript. | UtilAPIs
 - Video: https://youtu.be/Qi9vnfe-RyU
 - Código: https://github.com/utilapis/aprendamos-juntos/tree/feature/05-AprendamosCarousel
+
+## 6 - Creamos un poster que muestra tu vida en semanas con HTML, CSS y Javascript. | UtilAPIs
+- Video: https://youtu.be/U22KDhLc9Gw
+- Código: https://github.com/utilapis/aprendamos-juntos/tree/feature/06-TuVidaEnSemanas
